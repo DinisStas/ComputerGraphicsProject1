@@ -1,5 +1,5 @@
 
-Need to add the following libraries assimp, glad, open gl and sdl3
+To run following libraries assimp, glad, open gl and sdl3 need to be added
 
  Controlls movement with wasd for horizontal movement, up with space or any of the shifts, down with any of the Ctrl,camera motion for looking and scrool wheel for zoom in and out
 
